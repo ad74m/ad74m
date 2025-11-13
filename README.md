@@ -37,33 +37,27 @@
 
 ## 🔍 About Me  
 - 🎓 Cs Student at **Benha University**  
-- 🧠 Interested in **Data Analysis**  
-
+- 🧠 Interested in **Data Analysis**
+  
+![](https://github-readme-stats.vercel.app/api?username=ad74m&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ad74m&theme=shadow_green&hide_border=false)<br/>
 ---
-<div align="center">
 
-<a href="https://github.com/ad74m">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-
-</div>
-
----
 
 ## 🔗 Contact Me  
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BNXDAn4Cw/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BNXDAn4Cw/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/ad74m)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adhamashrafsaeed@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ad74m)
 
 </div>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ad74m&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=ad74m&icon=0&color=0)](https://visitcount.itsvg.in)
 
