@@ -1,12 +1,11 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ### **Adham Ashraf**  
 🎓 Cs Student at **Benha University**   
 📊 Passionate & ambitious about **Data Analysis**  
-
+![Profile Views](https://komarev.com/ghpvc/?username=ad74m&style=flat&color=orange&label=Profile%20Views)
 </div>
 
 
@@ -41,8 +40,21 @@
 - 🧠 Interested in **Data Analysis**  
 
 ---
+<div align="center">
 
-## 🔗 Connect With Me  
+<a href="https://github.com/ad74m">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+</div>
+
+---
+
+## 🔗 Contact Me  
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BNXDAn4Cw/)
@@ -54,11 +66,3 @@
 
 ---
 
-<div align="center">
-
-### 🌀 Code Cycle  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
-
-</div>
