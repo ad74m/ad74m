@@ -5,8 +5,7 @@
 ### **Adham Ashraf**  
 🎓 Cs Student at **Benha University**   
 📊 Data Analysis student at **Route Academy**  
-![Profile Views](https://komarev.com/ghpvc/?username=ad74m&style=flat&color=orange&label=Profile%20Views)
-</div>
+
 
 
 ---
