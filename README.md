@@ -4,7 +4,7 @@
 
 ### **Adham Ashraf**  
 🎓 Cs Student at **Benha University**   
-📊 Passionate & ambitious about **Data Analysis**  
+📊 Data Analysis student at **Route Academy**  
 ![Profile Views](https://komarev.com/ghpvc/?username=ad74m&style=flat&color=orange&label=Profile%20Views)
 </div>
 
@@ -37,7 +37,6 @@
 
 ## 🔍 About Me  
 - 🎓 Cs Student at **Benha University**  
-- 🧠 Interested in **Data Analysis**
   
 ![](https://github-readme-stats.vercel.app/api?username=ad74m&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ad74m&theme=shadow_green&hide_border=false)<br/>
