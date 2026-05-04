@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 📊 **Data Analysis**
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -18,14 +18,14 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
-### 💻 **Programming Languages**
+### **Programming Languages**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
 
-## 🔍 About Me  
+## About Me  
 - 🎓 Cs Student at **Benha University**
 - Data Analysis student at **Route Academy**
   
@@ -34,7 +34,7 @@
 ---
 
 
-## 🔗 Contact Me  
+## Contact Me  
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BNXDAn4Cw/)
