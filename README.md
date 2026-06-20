@@ -25,15 +25,6 @@
 
 
 
-## About Me  
-🎓 Cs Student at **Benha University**
-
-Data Analysis student at **Route Academy**
-  
-![](https://github-readme-stats.vercel.app/api?username=ad74m&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ad74m&theme=shadow_green&hide_border=false)<br/>
----
-
 
 ## Contact Me  
 <div align="center">
