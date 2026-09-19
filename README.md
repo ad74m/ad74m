@@ -3,6 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 ### **Adham Ashraf**  
+**Junior Data Analyst**  
 🎓 Cs Student at **Benha University**   
 📊 Data Analysis student at **Route Academy**  
 
