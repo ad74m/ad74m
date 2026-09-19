@@ -4,7 +4,7 @@
 
 ### **Adham Ashraf**  
 **Junior Data Analyst**  
-🎓 Cs Student at **Benha University**   
+🎓 Computer Science Student at **Benha University**   
 📊 Data Analysis student at **Route Academy**  
 
 
