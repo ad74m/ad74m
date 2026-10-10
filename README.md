@@ -4,7 +4,7 @@
 
 ### **Adham Ashraf**  
 **Junior Data Analyst**  
-🎓 Computer Science Student at **Benha University** - AI Major  
+🎓 Computer Science Student at **Benha University** - AI Major 
 
 
 
